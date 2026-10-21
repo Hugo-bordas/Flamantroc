@@ -453,3 +453,20 @@ Membres du groupe :
 
 Ce README est une base de travail.  
 Il peut être modifié selon les choix techniques, les fonctionnalités ajoutées et l’évolution du MCD.
+
+## 📸 Project Screenshots
+
+### Photo 1
+![Flamantroc - Photo 1](screenshots/photo%201.png)
+
+### Photo 2
+![Flamantroc - Photo 2](screenshots/photo%202.png)
+
+### Photo 3
+![Flamantroc - Photo 3](screenshots/photo%203.png)
+
+### Photo 4
+![Flamantroc - Photo 4](screenshots/photo%204.png)
+
+### Photo 5
+![Flamantroc - Photo 5](screenshots/photo%205.png)
