@@ -456,17 +456,17 @@ Il peut être modifié selon les choix techniques, les fonctionnalités ajoutée
 
 ## 📸 Project Screenshots
 
-### Photo 1
-![Flamantroc - Photo 1](screenshots/photo%201.png)
+### Screenshot 1
+![Flamantroc - Screenshot 1](screenshots/photo1.png)
 
-### Photo 2
-![Flamantroc - Photo 2](screenshots/photo%202.png)
+### Screenshot 2
+![Flamantroc - Screenshot 2](screenshots/photo2.png)
 
-### Photo 3
-![Flamantroc - Photo 3](screenshots/photo%203.png)
+### Screenshot 3
+![Flamantroc - Screenshot 3](screenshots/photo3.png)
 
-### Photo 4
-![Flamantroc - Photo 4](screenshots/photo%204.png)
+### Screenshot 4
+![Flamantroc - Screenshot 4](screenshots/photo4.png)
 
-### Photo 5
-![Flamantroc - Photo 5](screenshots/photo%205.png)
+### Screenshot 5
+![Flamantroc - Screenshot 5](screenshots/photo5.png)
